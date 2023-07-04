@@ -1,6 +1,3 @@
-# Temprature_map
-This website is a simple application that displays a map with red and blue markers representing the hotness or coldness of cities. It is built using HTML, CSS, and JavaScript.
-
 # Usage
 Once the application is running, you will see a map with markers on it. The red and blue markers representing the hotness or coldness of cities.
 
