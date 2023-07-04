@@ -3,7 +3,4 @@ Once the application is running, you will see a map with markers on it. The red 
 
 You can interact with the map in the following ways:
 
-:Zoom in and out using the mouse scroll wheel.
-:Click and drag to pan across the map.
-:Hover over a marker to see the city name and temperature.
-:Click on a marker to view additional information about the city.
+Zoom in and out using the mouse scroll wheel, Click and drag to pan across the map, Hover over a marker to see the city name and temperature, Click on a marker to view additional information about the city.
