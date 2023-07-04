@@ -1,0 +1,59 @@
+{
+    "data": [{
+        "name": "New Delhi",
+        "country": "India",
+        "lat": 28.6,
+        "lon": 77.2,
+        "last_updated": "2023-07-03 21:00",
+        "temp_c": 32.0,
+        "temp_f": 89.6,
+        "condition": {
+            "text": "Mist",
+            "icon": "//cdn.weatherapi.com/weather/64x64/night/143.png",
+            "code": 1030
+        }
+    },
+    {
+        "name": "Kolkata",
+        "country": "India",
+        "lat": 22.57,
+        "lon": 88.37,
+        "last_updated": "2023-07-03 21:00",
+        "temp_c": 30.0,
+        "temp_f": 86.0,
+        "condition": {
+            "text": "Moderate or heavy rain with thunder",
+            "icon": "//cdn.weatherapi.com/weather/64x64/night/389.png",
+            "code": 1276
+        }
+    },
+    {
+        "name": "Mumbai",
+        "country": "India",
+        "lat": 18.98,
+        "lon": 72.83,
+        "last_updated": "2023-07-03 21:00",
+        "temp_c": 29.0,
+        "temp_f": 84.2,
+        "condition": {
+            "text": "Mist",
+            "icon": "//cdn.weatherapi.com/weather/64x64/night/143.png",
+            "code": 1030
+        }
+    },
+    {
+        "name": "Chennai",
+        "country": "India",
+        "lat": 13.08,
+        "lon": 80.28,
+        "last_updated": "2023-07-03 21:00",
+        "temp_c": 30.0,
+        "temp_f": 86.0,
+        "condition": {
+            "text": "Mist",
+            "icon": "//cdn.weatherapi.com/weather/64x64/night/143.png",
+            "code": 1030
+        }
+    }]
+}
+    
